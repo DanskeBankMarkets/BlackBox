@@ -1,0 +1,15 @@
+# NPM related directories and files
+node_modules
+npm-debug.log
+
+# Bower directory
+.bower-cache
+.bower-registry
+.bower-temp
+
+# Editor
+.imdone
+
+# Custom
+results/**/*
+!results/.gitkeep
