@@ -1,5 +1,4 @@
-# cashflow
-Cashflow is King
+# BlackBox made by Danske Bank Markets IT
 
 # Architecture
 The goal of the system is to simulate a basic price engine and make it possible for traders to write their own algorithms.
@@ -10,7 +9,7 @@ To get it to work you need to have Node 5.0.0 installed on your system, this sho
 
  ```
  //Navigate to root folder of project.
- cd cashflow
+ cd BlackBox/BlackBoxJS
  //Install dependencies.
  npm install
  //Run the application, this will run all algorithms against the provided data and produce the output files.
